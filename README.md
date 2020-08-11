@@ -3,6 +3,9 @@
 
 ![Doku Laravel](http://crudbooster.com/dokularavel_screenshot.png)
 
+
+### MAAF REPOSITORY INI SUDAH TIDAK DIMAINTAIN / DEPRECATED
+
 Ini adalah DOKU Payment Gateway Library yang sudah di *compile* menjadi *Package* untuk Laravel. API DOKU ini merupakan API dari DOKU Resmi yang berjenis Merchant Hosted, artinya tetap menggunakan FORM Pembayaran yang digenerate dari DOKU melalui Javascript, dan bukan yang model redirect ke halaman DOKU melainkan Form DOKU ada di server kita dan pembayaran seolah dilakukan di server kita.
 
 ## Kebutuhan Dasar
